@@ -1,0 +1,10 @@
+/**
+ * FUTURE — not imported by the site in v1.
+ * Copy to analytics-tail.ts and wire in profile or a section when targeting data/analytics companies.
+ */
+export const analyticsTail = {
+  enabled: false,
+  bullets: [
+    // "Example: Built dashboards with ...",
+  ],
+};
